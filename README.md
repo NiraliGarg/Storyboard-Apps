@@ -103,4 +103,4 @@ Apps involving user data, models, or Codable.
   - Multiple student variations of the same idea
 - To quickly inspect project metadata, open:
 ```text
-ProjectName/ProjectName.xcodeproj/project.pbxproj
+Stroyboard-Apps/Stroyboard-Apps.xcodeproj/project.pbxproj
