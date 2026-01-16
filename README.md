@@ -2,9 +2,9 @@
 
 A curated collection of **iOS mini-applications** built using **UIKit and Storyboards**, created to practice and demonstrate core iOS development concepts.
 
-This repository consolidates multiple small projects into a single, well-organized workspace to showcase learning progression, UIKit fundamentals, and hands-on experimentation.
+This repository consolidates multiple small projects into a single, well-organized workspace to showcase learning progression, Storyboard fundamentals, and hands-on experimentation.
 
-> Some projects are inspired by and aligned with concepts from **Apple’s official iOS and UIKit documentation and learning resources**.
+> Some projects are inspired by and aligned with concepts from **Apple’s official iOS documentation and learning resources**.
 
 ---
 
