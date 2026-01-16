@@ -1,6 +1,8 @@
 # 📱 iOS Swift Workspace — Project Index
 
 This repository contains a collection of **iOS application projects and Swift examples** built using **Xcode**.
+> Each folder can be opened and run separately in Xcode.
+
 
 The projects primarily focus on learning and demonstrating:
 - UIKit concepts
