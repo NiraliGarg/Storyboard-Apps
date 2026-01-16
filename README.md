@@ -83,7 +83,6 @@ This repository consolidates multiple small projects into a single, well-organiz
 | Hotel Codable | JSON parsing using Codable |
 | TrafficS | Logic-based UI updates |
 | SystemViewController | Using system-provided view controllers |
-| DSA | Basic data structures practice |
 
 ---
 
@@ -93,7 +92,6 @@ This repository consolidates multiple small projects into a single, well-organiz
 |-------|-------------|
 | MyDetails | Personal information UI |
 | MyPicandDetails | Image + data display |
-| Classes Assignment | Swift class & object concepts |
 | Sample / TestView / Team U | Experimentation projects |
 | HTML | Web content handling |
 | HomeFurnitureSharing | UI prototype concept |
