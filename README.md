@@ -1,121 +1,106 @@
-# 📱 UIKit Storyboard Playground
+# 📱 iOS Swift Workspace — Project Index
 
-A curated collection of **iOS mini-applications** built using **UIKit and Storyboards**, created to practice and demonstrate core iOS development concepts.
+This repository contains a collection of **iOS application projects and Swift examples** built using **Xcode**.
 
-This repository consolidates multiple small projects into a single, well-organized workspace to showcase learning progression, Storyboard fundamentals, and hands-on experimentation.
+The projects primarily focus on learning and demonstrating:
+- UIKit concepts
+- Interface Builder
+- Navigation & segues
+- UI controls
+- Basic app logic
 
-> Some projects are inspired by and aligned with concepts from **Apple’s official iOS documentation and learning resources**.
-
----
-
-## 🔹 Purpose of This Repository
-
-- Practice **UIKit + Storyboard** workflows  
-- Understand **Interface Builder**, **Auto Layout**, and UI components  
-- Explore **navigation**, **data flow**, and **user interaction**  
-- Maintain a clean, professional **portfolio structure**
+This workspace serves as a **learning archive and practice ground** for iOS development.
 
 ---
 
-## 🧮 Calculator & Utility Apps
+## 📂 Workspace Structure
 
-| Project | Description |
-|-------|-------------|
-| Calculator | Basic arithmetic operations using UIButton actions |
-| TipCalculator | Calculates tip based on user input |
-| InterestCalculation | Computes simple interest |
-| EMICalculator | Calculates EMI using sliders and real-time updates |
-| Counter | Increment/decrement logic using UI controls |
-| TimerApp | Timer implementation using UIKit |
+Each folder generally contains:
 
----
+- An **Xcode project** (`.xcodeproj`)
+- **Swift source files**
+- **Storyboards or UI files**
+- **Assets and configuration files**
 
-## 🎨 UI Controls & Interface Builder Practice
-
-| Project | Description |
-|-------|-------------|
-| IBasics | Fundamentals of Interface Builder |
-| Control_In_Actions | UIButton, UISwitch, UISlider interactions |
-| SetandClearText | TextField manipulation |
-| Light | Toggle-based UI state changes |
-| ViewController | UIViewController lifecycle practice |
+Most folders are **independent projects** and can be opened and run separately.
 
 ---
 
-## 🧭 Navigation & Segues
+## 📌 Project Categories & List
 
-| Project | Description |
-|-------|-------------|
-| Segues | Storyboard segue navigation |
-| LoginSegue | Login flow using segues |
-| ProgrammaticSegue | Navigation without storyboard segues |
-| TabBarView | Tab bar controller implementation |
+### 🔢 Utility & Calculator Apps
+Projects focused on calculations and basic logic.
 
----
-
-## 📜 Scroll, Lists & Layouts
-
-| Project | Description |
-|-------|-------------|
-| ScrollView | UIScrollView fundamentals |
-| ScrollingForm | Scrollable form layout |
-| TableView | UITableView implementation |
-| MealTracker | TableView-based meal tracking app |
+- **Calculator** — Basic calculator app  
+- **EMICalculator** — EMI calculation project  
+- **InterestCalculation** — Interest calculation sample  
+- **TipCalculator** — Tip calculation app  
+- **Counter** — Simple counter app  
 
 ---
 
-## 🎨 Graphics & Media
+### 🎨 UI & Controls Demonstrations
+Projects demonstrating UIKit controls and visual interactions.
 
-| Project | Description |
-|-------|-------------|
-| ImageTransform | Image manipulation using UIKit |
-| RGB | Color mixing using RGB values |
-| RGB With Slider | Dynamic color changes with sliders |
-| EmojiDictionary | Emoji dictionary using data models |
-| EmojiDictionary 2 | Extended version with enhancements |
-
----
-
-## 🧠 Data, Models & System APIs
-
-| Project | Description |
-|-------|-------------|
-| Hotel Codable | JSON parsing using Codable |
-| TrafficS | Logic-based UI updates |
-| SystemViewController | Using system-provided view controllers |
+- **Control_In_Actions** — UI control action examples  
+- **IBBasics** — Interface Builder basics  
+- **Image Transform** — Image transformation examples  
+- **Light** — Light toggle demo  
+- **RGB** — RGB color selector  
+- **RGB With Slider** — Slider-based RGB color mixing  
+- **TrafficS** — Traffic signal simulation  
 
 ---
 
-## 🧪 Miscellaneous & Experimental
+### 🔀 Navigation & Segues
+Projects focused on screen transitions and app flow.
 
-| Project | Description |
-|-------|-------------|
-| MyDetails | Personal information UI |
-| MyPicandDetails | Image + data display |
-| Sample / TestView / Team U | Experimentation projects |
-| HTML | Web content handling |
-| HomeFurnitureSharing | UI prototype concept |
+- **LoginSegue** — Login flow using segues  
+- **ProgrammaticSegue** — Segues triggered via code  
+- **Segues** — General segue examples  
+- **TabBarView** — Tab bar interface example  
 
 ---
 
-## 🛠 Tech Stack
+### 📜 TableView, Scroll & Layout
+Projects demonstrating lists, scrolling, and layout handling.
 
-- **Language:** Swift  
-- **Framework:** UIKit  
-- **UI:** Storyboards, Interface Builder  
-- **Tools:** Xcode, Git  
-
----
-
-## 📌 Notes
-
-- Projects are intentionally kept **small and focused**
-- Emphasis is on **concept clarity**, not production scale
-- Repository represents **learning depth and consistency**
+- **TableView** — Table view implementations  
+- **ScrollView** — Scroll view examples  
+- **ScrollingForm** — Scrollable form UI  
+- **EmojiDictionary** — Emoji table view example  
+- **EmojiDictionary 2** — Extended emoji dictionary example  
 
 ---
 
-## 👩‍💻 Author
+### 🧩 Sample & Practice Projects
+General practice projects for experimentation.
 
-**Nirali Garg**  
-iOS Developer | Swift | UIKit | Apple Frameworks
+- **Sample** — General sample project  
+- **TestView** — View testing project  
+- **TimerApp** — Timer-based app  
+- **SystemViewController** — System-provided view controllers  
+- **SetandClearText** — Text field set/clear demo  
+
+---
+
+### 🧑‍💼 Personal / Data-Based Apps
+Apps involving user data, models, or Codable.
+
+- **MyDetails** — Personal details app  
+- **MyPicandDetails** — Profile image + details app  
+- **MealTracker** — Meal tracking sample  
+- **HomeFurnitureSharing** — Furniture sharing concept app  
+- **Hotel Codable** — Codable API parsing example  
+
+---
+
+## 📝 Notes & Tips
+
+- Most folders contain **one independent Xcode project**
+- Some folders may include:
+  - Swift playgrounds (`.xcplayground`)
+  - Multiple student variations of the same idea
+- To quickly inspect project metadata, open:
+```text
+ProjectName/ProjectName.xcodeproj/project.pbxproj
